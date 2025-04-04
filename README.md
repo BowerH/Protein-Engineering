@@ -51,6 +51,12 @@ pip install fair-esm torch pandas numpy scipy scikit-learn
    ```
    jupyter notebook
    ```
+   
+4. If you'd rather run this in python, You must have python installed and run the following code:
+
+   ```
+   python g22_hackathon.py
+   ```
 
 ## Project Structure
 
